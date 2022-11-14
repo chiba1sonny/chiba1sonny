@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chiba1sonny
-- 👀 I’m interested in creating product and solution that rely on machine learning/deep learning
+- 👀 I’m interested in creating product and making solution that rely on machine learning/deep learning
 - 🌱 I’m currently a graduate student based in Japan
 - 📫 How to reach me chiba1sonny@gmail.com
 - ✨ Here is my [homepage](https://chiba1sonny.github.io/)
