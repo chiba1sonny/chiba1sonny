@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chiba1sonny
 - 👀 I’m interested in creating product and making solution that rely on machine learning/deep learning
-- 🌱 I’m currently a graduate student based in Japan
+- 🌱 I’m currently a graduate student
 - 📫 How to reach me chiba1sonny@gmail.com
 - ✨ Life is fantastic
 <!---
